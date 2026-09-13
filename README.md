@@ -48,7 +48,8 @@ A fully responsive, feature-rich front-end web application for an educational pl
 
 ## 📸 Screenshots
 
-*(You can add screenshots of your project here)*
+<img width="1918" height="905" alt="image" src="https://github.com/user-attachments/assets/2a051e47-688f-47b8-a395-8525337ac414" />
+
 
 ## 📄 License
 
